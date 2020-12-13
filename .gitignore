@@ -1,0 +1,6 @@
+__pycache__/
+/build/
+*.egg-info/
+.vscode/
+/pip-wheel-metadata/
+/pyproject.toml
