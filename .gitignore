@@ -3,4 +3,3 @@ __pycache__/
 *.egg-info/
 .vscode/
 /pip-wheel-metadata/
-/pyproject.toml
